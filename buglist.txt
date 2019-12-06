@@ -1,0 +1,27 @@
+
+1) date Issue http://recordit.co/N8J9vT1uyp
+2) forgot username http://recordit.co/JFVAazXOiX
+3) not able to login through twitter account. http://recordit.co/fBX0CEuLza
+4) alert message when no user name and password enter alert message displayed as
+   username and password already in use refer video:http://recordit.co/dleac0DYTQ
+5) User interface in date should be used as dd/mm/yyy or other date format so tha tuser can understand 
+   properly.
+6) Check box not working refer video:	http://recordit.co/CokBzWfQKa
+7) Helpme fins a mover and set reminder later button not working refer video:http://recordit.co/Tj6inJ0QeT
+8) User interface issue refer video:http://recordit.co/wY1lYF0FRo
+9) calculaion in number of days differ refer video:http://recordit.co/9b5dnMBycO
+10) taskname calender has issue refer video:http://recordit.co/X9a6hT3LMi
+11) when any one date selected other date not able to see refer video:http://recordit.co/thn6sFVqN6
+12) alert message issue refer video:http://recordit.co/0QeO9juYn0	
+13) UI Issue refer video: http://recordit.co/cf4Vo9tBEX
+14) UI refer video:http://recordit.co/c8ke0ffvXk
+15) naming error it should be HOME-IMPROVMENT HOME-DECOR refr video:http://recordit.co/tyW52QprK5	
+16) Download sections and number not diaplyed properly refer video:http://recordit.co/TYw3bk5aXo
+17) issue in utility refer video:http://recordit.co/FvnToH7JLY
+18) schedule appoinment not working refer video:http://recordit.co/NAeMB2QY5B
+19) review leads to main opage refer video:http://recordit.co/SYsDL5piBI
+20) redirection issue refer video:http://recordit.co/Bh4KP9vfRR
+21) fullname or username to be mentioned instead of first name refer video:http://recordit.co/7s1hT8JFjz
+22) firstname not diaplyed properly refer video:http://recordit.co/qtyD5OILuX
+23) UI Issue refer video:http://recordit.co/XeTz3yPbaq
+
